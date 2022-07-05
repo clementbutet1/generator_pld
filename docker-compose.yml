@@ -1,0 +1,16 @@
+version: "3.9"
+services:
+  pld_generator:
+    build: .
+    container_name: pld_generator
+    environment:
+      - USERS_CONFIG_PATH=./config/users.json
+      - CONFIG_PATH=./config/config.json
+      - REPOSITORY_LIST_PATH=./config/repositories.json
+      - RESOURCES_FOLDER=./resources
+    volumes:
+      - ./config:/app/config
+      - ./resources:/app/resources
+      - ./sources:/app/sources
+    env_file:
+      - config/.env

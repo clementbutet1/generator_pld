@@ -1,0 +1,76 @@
+{
+  "document_name": "new.docx",
+  "title": "Epitech Innovation Project",
+  "sub-title": "Project Log Document",
+  "cover-image": {
+    "path": "cover_image.png",
+    "size": {
+      "width": 5.0,
+      "height": 5.0
+    }
+  },
+  "description": {
+    "Titre": "Project Log Document",
+    "Objet": "Whale Music PLD",
+    "Auteur": "Whale Music",
+    "Responsable": "Clément Guichard",
+    "E-mail": "whalemusic_2024@labeip.epitech.eu",
+    "Mots-clés": [
+      "Project Log Document",
+      "Epitech Innovation",
+      "Whale Music",
+      "User stories",
+      "fonctionnalités",
+      "tâches",
+      "gestion de projet",
+      "sprint",
+      "definition of done"
+    ],
+    "Promotion": "2024"
+  },
+  "project_presentation": [
+    "totot",
+    "totot"
+  ],
+  "organigramme-livrable": {
+    "path": "organigramme_livrable.png",
+    "size": {
+      "width": 6.50,
+      "height": 4.51
+    }
+  },
+  "livrable-maps": [
+    {
+      "name": "Cartes parties investissement artistes",
+      "path": "investissement_artiste.png",
+      "size": {
+        "width": 4.69,
+        "height": 3.77
+      }
+    },
+    {
+      "name": "Cartes partie Marketplace",
+      "path": "investissement_market.png",
+      "size": {
+        "width": 4.78,
+        "height": 4.39
+      }
+    },
+    {
+      "name": "Cartes Landing Page",
+      "path": "landing_page.png",
+      "size": {
+        "width": 4.69,
+        "height": 4.40
+      }
+    },
+    {
+      "name": "Cartes 'Autres'",
+      "path": "reseau_sociaux.png",
+      "size": {
+        "width": 4.78,
+        "height": 1.94
+      }
+    }
+  ]
+}
